@@ -61,7 +61,7 @@ Electronics leads revenue at $57M, more than double the next closest category. B
 ### 4.2 It's not a regional problem
 
 ![Electronics margin by region](images/margin-by-region.png)
-*Insert the Electronics margin by Region chart here.*
+
 
 If Electronics' weak margin were being driven by regional factors, higher shipping costs in one market, more aggressive local pricing, inconsistent execution, we'd expect to see real variation across regions. We don't. East, West, South, and Centre all land within a tenth of a percentage point of each other, all around 14%. That consistency is itself the finding: whatever is compressing Electronics' margin is happening at the same rate everywhere, which rules out a regional promotion or a market specific pricing adjustment as the fix. This needs to be solved at the category level, company wide.
 
