@@ -3,7 +3,7 @@
 **Quick take:** Electronics generates 40% of our revenue, but converts it into profit at less than half the rate of every other category, a 14% margin against 23% to 34% elsewhere. And it's not one weak region or a slow month pulling that number down. The gap holds steady across every region and every month of the year, which points to something structural, likely pricing or cost related, not something a regional or seasonal fix will solve.
 
 ![Full dashboard](images/dashboard-full.png)
-*Insert the full dashboard screenshot here.*
+
 
 The screenshots throughout this README are the best way to view the dashboard. The `.pbix` file in `/power-bi` is included for anyone who wants to open it in Power BI Desktop and explore the measures and data model firsthand.
 
