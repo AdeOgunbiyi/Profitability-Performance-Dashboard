@@ -1,11 +1,11 @@
 # Profitability Performance Dashboard: FY23 to FY24
 
-**Quick take:** Electronics generates 40% of our revenue, but converts it into profit at less than half the rate of every other category, a 14% margin against 23% to 34% elsewhere. And it's not one weak region or a slow month pulling that number down. The gap holds steady across every region and every month of the year, which points to something structural, likely pricing or cost related, not something a regional or seasonal fix will solve.
+Electronics generates 40% of our revenue, but converts it into profit at less than half the rate of every other category, a 14% margin against 23% to 34% elsewhere. And it's not one weak region or a slow month pulling that number down. The gap holds steady across every region and every month of the year, which points to something structural, likely pricing or cost related, not something a regional or seasonal fix will solve.
 
 ![Full dashboard](images/dashboard-full.png)
 
 
-The screenshots throughout this README are the best way to view the dashboard. The `.pbix` file in `/power-bi` is included for anyone who wants to open it in Power BI Desktop and explore the measures and data model firsthand.
+If you'd like to interact with the dashboard, the file can be found in `/power-bi`.
 
 ---
 
@@ -54,7 +54,7 @@ This isn't isolated to a region or a season. Electronics' margin holds within a 
 ### 4.1 Our biggest seller isn't our biggest earner
 
 ![Revenue and margin by category](images/category-revenue-margin.png)
-*Insert the Revenue by Category and Margin % by Category charts here, side by side.*
+
 
 Electronics leads revenue at $57M, more than double the next closest category. But it converts that revenue into profit at less than half the rate of the other three, a 14% margin versus 23% to 34% elsewhere. Accessories sits at the other extreme: only $10M in revenue, the smallest of the four categories, yet it converts at the highest rate, 34%. Rank the categories by revenue and by margin side by side, and the order nearly flips. That inversion, our top revenue category being our weakest earner, is the core tension this whole report is built around.
 
@@ -68,7 +68,7 @@ If Electronics' weak margin were being driven by regional factors, higher shippi
 ### 4.3 The holiday rush doesn't cost us margin
 
 ![Revenue trend 2023 vs 2024](images/revenue-trend.png)
-*Insert the Revenue trend (2023 vs 2024, with margin line) chart here.*
+
 
 Revenue climbs sharply in the fourth quarter. November alone brought in $13.37M in 2023 and $13.90M in 2024, both roughly three times a typical month's revenue of about $4.3M. In a lot of retail businesses, that kind of spike comes with a margin cost, heavier discounting to move volume. That's not the case here. Margin holds in a tight 22.0% to 22.4% band across the entire year, holiday period included. The added volume isn't being bought with lower prices, which means there's room to invest further into Q4 without that investment eating into profit, once the underlying Electronics margin issue is addressed.
 
