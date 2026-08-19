@@ -2,7 +2,7 @@
 
 This document records the actual steps taken to clean, transform, and model the dataset in Power Query and Power BI, in the order they were performed. It exists so the numbers in the README can be traced back to something verifiable, rather than taken on faith.
 
-Source file: [data/product_sales_dataset_final.csv](data) (200,000 rows, 14 columns)
+Source file: [data/product_sales_dataset_final.csv](data/product_sales_dataset_final.csv) (200,000 rows, 14 columns)
 
 ---
 
