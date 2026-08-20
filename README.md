@@ -1,6 +1,6 @@
 # Profitability Performance Dashboard: FY23 to FY24
 
-Electronics generates 40% of total revenue yet produces profit at less than half the efficiency of other categories — a 14% margin compared to 23%–34%. And it’s not a weak region or a slow month dragging the number down. The gap is consistent across every region and every month, which points to a structural issue, likely tied to pricing or cost, not something a regional or seasonal tweak will fix.
+Electronics generates 40% of total revenue yet produces profit at less than half the efficiency of other categories - a 14% margin compared to 23%–34%. And it’s not a weak region or a slow month dragging the number down. The gap is consistent across every region and every month, which points to a structural issue, likely tied to pricing or cost, not something a regional or seasonal tweak will fix.
 
 ![Full dashboard](images/dashboard-full.png)
 
