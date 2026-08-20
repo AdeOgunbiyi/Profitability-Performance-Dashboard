@@ -36,8 +36,8 @@ Before analysis, I standardized and structured the data in Power Query to make s
 
 **Limits that shape the analysis**
 
-* Customer tracking constraint — Customer names repeat across different individuals, so there’s no reliable way to identify repeat customers or measure loyalty. I intentionally excluded any customer‑level claims from this report.
-* Electronics margin consistency — Profit margin in Electronics is nearly identical across laptops, phones, tablets, and other subcategories. That consistency signals the margin is set at the category level, not driven by product mix. All findings are scoped to the category level, where the signal is stable.
+* Customer tracking constraint - Customer names repeat across different individuals, so there’s no reliable way to identify repeat customers or measure loyalty. I intentionally excluded any customer‑level claims from this report.
+* Electronics margin consistency - Profit margin in Electronics is nearly identical across laptops, phones, tablets, and other subcategories. That consistency signals the margin is set at the category level, not driven by product mix. All findings are scoped to the category level, where the signal is stable.
 
 ## 3. Executive Summary
 
@@ -57,28 +57,28 @@ Growing Electronics revenue won’t solve this. The issue isn’t volume - it’
 ![Revenue and margin by category](images/category-revenue-margin.png)
 
 
-Electronics leads revenue at $57M, more than double the next closest category. But it converts that revenue into profit at less than half the rate of the other three, a 14% margin versus 23% to 34% elsewhere. Accessories sits at the other extreme: only $10M in revenue, the smallest of the four categories, yet it converts at the highest rate, 34%. Rank the categories by revenue and by margin side by side, and the order nearly flips. That inversion, our top revenue category being our weakest earner, is the core tension this whole report is built around.
+Growing Electronics revenue won’t solve this. The issue isn’t volume - it’s conversion, how much of each sale actually turns into profit. The higher‑leverage move is understanding why Electronics converts so poorly (pricing, supplier cost, category‑level cost structure) and reconsidering how much of next year’s budget goes to Accessories, which already converts at the highest rate in the portfolio and currently receives the smallest share of investment.
 
 ### 4.2 It's not a regional problem
 
 ![Electronics margin by region](images/margin-by-region.png)
 
 
-If Electronics' weak margin were being driven by regional factors, higher shipping costs in one market, more aggressive local pricing, inconsistent execution, we'd expect to see real variation across regions. We don't. East, West, South, and Centre all land within a tenth of a percentage point of each other, all around 14%. That consistency is itself the finding: whatever is compressing Electronics' margin is happening at the same rate everywhere, which rules out a regional promotion or a market specific pricing adjustment as the fix. This needs to be solved at the category level, company wide.
+If Electronics’ weak margin were being driven by regional factors such as higher shipping costs in one market, more aggressive local pricing, or inconsistent execution, I would expect to see real variation across regions. I do not. East, West, South, and Centre all land within a tenth of a percentage point of each other, all at roughly fourteen percent. That consistency is the finding. Whatever is compressing Electronics’ margin is happening at the same rate everywhere, which rules out a regional promotion or a market specific pricing adjustment as the solution. This needs to be solved at the category level across the entire company.
 
 ### 4.3 The holiday rush doesn't cost us margin
 
 ![Revenue trend 2023 vs 2024](images/revenue-trend.png)
 
 
-Revenue climbs sharply in the fourth quarter. November alone brought in $13.37M in 2023 and $13.90M in 2024, both roughly three times a typical month's revenue of about $4.3M. In a lot of retail businesses, that kind of spike comes with a margin cost, heavier discounting to move volume. That's not the case here. Margin holds in a tight 22.0% to 22.4% band across the entire year, holiday period included. The added volume isn't being bought with lower prices, which means there's room to invest further into Q4 without that investment eating into profit, once the underlying Electronics margin issue is addressed.
+Revenue climbs sharply in the fourth quarter. November alone brought in $13.37M in 2023 and $13.90M in 2024, both roughly three times a typical month’s revenue of about $4.3M. In many retail businesses, that kind of spike comes with a margin cost because heavier discounting is used to move volume. That is not what is happening here. Margin holds in a tight band between 22.0% and 22.4% across the entire year, including the holiday period. The added volume is not being bought with lower prices, which means there is room to invest further into Q4 without that investment eating into profit once the underlying Electronics margin issue is addressed.
 
 ## 5. Recommendations
 
-1. **Investigate why Electronics converts at such a low rate before spending more to sell more of it.** It's already the top revenue category. The problem isn't demand, it's conversion, and that's a pricing or supplier cost conversation, not a marketing one.
+1. **Investigate why Electronics converts at such a low rate before investing further in selling more of it.** Electronics is already the top revenue category. The issue is not demand, it is conversion, and that points to pricing or supplier cost rather than a marketing problem.
 
-2. **Shift a larger share of next year's budget toward Accessories.** It's the smallest category by revenue but the strongest by margin, and it's currently the most under invested category relative to how well it actually performs.
+2. **Shift a larger share of next year’s budget toward Accessories.** Accessories is the smallest category by revenue and the strongest by margin. It is also the most under‑invested category relative to its performance, which makes it a high leverage opportunity.
 
-3. **Don't approach the Electronics problem region by region or season by season.** The margin gap is consistent everywhere, all year. Any fix needs to be applied at the category level, not through a regional promotion or a holiday pricing adjustment.
+3. **Avoid treating the Electronics margin problem as a regional or seasonal issue.** The margin gap is consistent across every region and across the entire year. Any fix must be applied at the category level rather than through regional promotions or holiday pricing adjustments.
 
-4. **Once the Electronics margin issue is addressed, scale into Q4 with confidence.** The data shows the holiday rush isn't being bought with lower margin, so the seasonal spike itself isn't the risk. Just make sure the category driving that spike isn't scaled up before its underlying margin problem is fixed.
+4. **Scale into Q4 once the Electronics margin issue is resolved.** The holiday spike is not being driven by lower margin, which means the seasonal volume itself is not the risk. The real risk is scaling the category that drives that spike before its underlying margin problem is fixed.
