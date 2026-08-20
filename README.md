@@ -1,6 +1,6 @@
 # Profitability Performance Dashboard: FY23 to FY24
 
-Electronics generates 40% of our revenue, but converts it into profit at less than half the rate of every other category, a 14% margin against 23% to 34% elsewhere. And it's not one weak region or a slow month pulling that number down. The gap holds steady across every region and every month of the year, which points to something structural, likely pricing or cost related, not something a regional or seasonal fix will solve.
+Electronics generates 40% of total revenue yet produces profit at less than half the efficiency of other categories — a 14% margin compared to 23%–34%. And it’s not a weak region or a slow month dragging the number down. The gap is consistent across every region and every month, which points to a structural issue, likely tied to pricing or cost, not something a regional or seasonal tweak will fix.
 
 ![Full dashboard](images/dashboard-full.png)
 
@@ -11,18 +11,18 @@ If you'd like to interact with the dashboard, the file can be found in `/power-b
 
 ## 1. Background and Overview
 
-This dashboard was built for a VP of Finance and Merchandising deciding where next year's merchandising and marketing budget should go, not just what's selling, but what's actually generating profit.
+This dashboard was built for a VP who needs to allocate next year’s merchandising and marketing budget based on profit contribution, not just sales volume.
 
-Revenue alone can be misleading. A category can post strong top line numbers and still be a weak contributor to the bottom line, and that gap often stays hidden until someone actually breaks the numbers apart by category, region, and time period. That's the gap this dashboard is built to close.
+In my analysis, revenue alone proved misleading; a category can post strong top‑line numbers while adding very little to the bottom line. That disconnect only becomes visible when the data is broken out by category, region, and time period; which is exactly the gap I designed this dashboard to close.
 
-These questions didn't come first. They took shape after an initial pass through the data, once we had a sense of what story it was actually telling. From there, they became the guide for chasing the "why" behind the numbers, and for making sure the analysis actually answered what the stakeholder needed.
+The questions guiding the work didn’t come first. They emerged after my initial pass through the data, once I understood the underlying story. From there, they became my framework for chasing the “why” behind the numbers and ensuring the final insights answered the stakeholder’s actual decision.
 
 Questions we wanted answered:
 
-* Which categories are generating profit, versus which ones are just generating volume?
-* Is the Electronics gap concentrated in a specific region, or is it happening everywhere?
-* Does profit margin hold up during the holiday rush, or does it erode under higher volume?
-* Based on the answers, where should next year's investment actually go?
+* Which categories are truly generating profit, and which ones are only generating volume without meaningful contribution to the bottom line?
+* Is the Electronics profit gap concentrated in a specific region, or is it consistent across the entire footprint?
+* Does profit margin hold during the holiday surge, or does it erode when volume spikes?
+* Based on the answers, where should next year’s merchandising and marketing investment actually go to maximize profit contribution?
 
 ## 2. Data Structure Overview
 
